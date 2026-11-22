@@ -1,0 +1,5 @@
+{
+  "author": "mierak",
+  "name": "lyrics",
+  "entry_point": "src/lyrics.lua"
+}
